@@ -15,7 +15,7 @@ function Main() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Nirço
+          Controle de Investimentos do Nirço
         </a>
       </header>
     </div>
