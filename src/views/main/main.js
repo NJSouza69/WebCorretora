@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from '../../logo.svg';
+import './main.css';
 
-function App() {
+function Main() {
   return (
     <div className="App">
       <header className="App-header">
@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Controle de Investimentos do Nirço
         </a>
       </header>
     </div>
   );
 }
 
-export default App;
+export default Main;
