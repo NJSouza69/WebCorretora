@@ -5,6 +5,7 @@ function Main() {
   return (
     <div className="App">
       <header className="App-header">
+        <button type="button">Mostrar</button>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -15,7 +16,7 @@ function Main() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Controle de Investimentos do Nirço
+          Controle de Investimentos do Nilson
         </a>
       </header>
     </div>
