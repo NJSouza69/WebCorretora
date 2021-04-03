@@ -1,14 +1,19 @@
 import './main.css';
 
 import HeaderBar from '../../components/header/header-bar';
-
+import MediaCard from '../../components/card/card';
 
 function Main() {
   return (
 
-    <div className="App">
+    <div className="Cards">
+      <div>
+        <HeaderBar/>
+      </div>
 
-      <HeaderBar/>
+      <div>
+        <MediaCard />
+      </div>
 
     </div>
   );
